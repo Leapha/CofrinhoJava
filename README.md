@@ -8,5 +8,4 @@ trabalho feito totalmente em Java onde consiste em criar um cofrinho em que o us
 - Calcular o total convertido emReal
 - Encerrar
 
-contem tambem um menu onde o ususario escolhe qual tipo de moeda quer adcionar/remover do cofrinho sendo elas Real/Euro/Dólas podendo escolher tambem o valor da moeda que deseja adicionar/Remover.
-trabalho produzido totalmente na linguagem JAVA
+contem também um menu onde o usuário escolhe qual tipo de moeda quer adicionar/remover do cofrinho sendo elas Real/Euro/Dólar podendo escolher também o valor da moeda que deseja adicionar/Remover. trabalho produzido totalmente na linguagem JAVA.
